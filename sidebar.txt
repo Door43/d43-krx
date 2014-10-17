@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[krx:home|Door43 (krx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-krx|d43-krx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-krx/archive/master.zip|d43-krx.zip]]
+
+**Recent Changes**
+{{changes>ns = krx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/krx|Ethnologue data]]
+
